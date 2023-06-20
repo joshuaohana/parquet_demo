@@ -5,7 +5,6 @@ import os
 import pyarrow as pa
 import pyarrow.parquet as pq
 import pandas as pd
-import numpy as np
 
 from flask import Flask, Response
 from flask_cors import CORS
